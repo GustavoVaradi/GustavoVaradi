@@ -34,4 +34,6 @@
  	<a align=center href="https://www.discordapp.com/users/varadi#7303" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   	<a align=center href = "mailto:varadigustavo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   	<a align=center href="https://www.linkedin.com/in/gustavo-v-701156135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	
+	![Snake animation](https://github.com/GustavoVaradi/GustavoVaradi/blob/output/github-contribution-grid-snake.svg)
 </div>
