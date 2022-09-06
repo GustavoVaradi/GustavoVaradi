@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gu-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="rigth" alt="Gu-Killua" src="https://im5.ezgif.com/tmp/ezgif-5-f36fdc8968.gif">
+  <img align="rigth" alt="Gu-Killua" src="src/assets/to_readme/killuaandgon2.gif">
 </div>
 
 ##
