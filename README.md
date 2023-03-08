@@ -3,8 +3,9 @@
 	<img align=right src="https://media.giphy.com/media/4SdFG1BbqiJEI/giphy.gif" width="250" height="166"/>
 
 - 🚚 Today I work with Logistic: Assistent of risk
-- 🐍 I'm studing python
-- 👨‍🎓 I'm studing Analysis and systems developmentin in Universidade da cidade de São Paulo
+- 🐍 I'm studing python and Java
+- 👨‍🎓 I'm studing Analysis and systems developmentin in 
+	Universidade da cidade de São Paulo
 </div>
 
 <br>
