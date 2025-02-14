@@ -1,4 +1,4 @@
-# Hello! My name is Gustavo Varadi and I'm a technology enthusiast
+# Hello! My name is Gustavo Varadi and I'm a Data Analyst
 <div>
 	<img align=right src="https://media.giphy.com/media/4SdFG1BbqiJEI/giphy.gif" width="250" height="166"/>
 
